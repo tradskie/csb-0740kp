@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://tradskie.github.io/csb-0740kp/static/css/main.4b5b73c6.chunk.css",
-    "main.js": "https://tradskie.github.io/csb-0740kp/static/js/main.885b1eb9.chunk.js",
-    "main.js.map": "https://tradskie.github.io/csb-0740kp/static/js/main.885b1eb9.chunk.js.map",
+    "main.js": "https://tradskie.github.io/csb-0740kp/static/js/main.f04e224c.chunk.js",
+    "main.js.map": "https://tradskie.github.io/csb-0740kp/static/js/main.f04e224c.chunk.js.map",
     "runtime-main.js": "https://tradskie.github.io/csb-0740kp/static/js/runtime-main.2a3e3f54.js",
     "runtime-main.js.map": "https://tradskie.github.io/csb-0740kp/static/js/runtime-main.2a3e3f54.js.map",
     "static/js/2.eec279aa.chunk.js": "https://tradskie.github.io/csb-0740kp/static/js/2.eec279aa.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2a3e3f54.js",
     "static/js/2.eec279aa.chunk.js",
     "static/css/main.4b5b73c6.chunk.css",
-    "static/js/main.885b1eb9.chunk.js"
+    "static/js/main.f04e224c.chunk.js"
   ]
 }
