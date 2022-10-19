@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tradskie.github.io/csb-0740kp/static/css/main.4b5b73c6.chunk.css",
+    "main.js": "https://tradskie.github.io/csb-0740kp/static/js/main.885b1eb9.chunk.js",
+    "main.js.map": "https://tradskie.github.io/csb-0740kp/static/js/main.885b1eb9.chunk.js.map",
+    "runtime-main.js": "https://tradskie.github.io/csb-0740kp/static/js/runtime-main.2a3e3f54.js",
+    "runtime-main.js.map": "https://tradskie.github.io/csb-0740kp/static/js/runtime-main.2a3e3f54.js.map",
+    "static/js/2.eec279aa.chunk.js": "https://tradskie.github.io/csb-0740kp/static/js/2.eec279aa.chunk.js",
+    "static/js/2.eec279aa.chunk.js.map": "https://tradskie.github.io/csb-0740kp/static/js/2.eec279aa.chunk.js.map",
+    "index.html": "https://tradskie.github.io/csb-0740kp/index.html",
+    "static/css/main.4b5b73c6.chunk.css.map": "https://tradskie.github.io/csb-0740kp/static/css/main.4b5b73c6.chunk.css.map",
+    "static/js/2.eec279aa.chunk.js.LICENSE.txt": "https://tradskie.github.io/csb-0740kp/static/js/2.eec279aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a3e3f54.js",
+    "static/js/2.eec279aa.chunk.js",
+    "static/css/main.4b5b73c6.chunk.css",
+    "static/js/main.885b1eb9.chunk.js"
+  ]
+}
